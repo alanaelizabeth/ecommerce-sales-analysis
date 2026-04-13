@@ -29,3 +29,10 @@ Superstore sales dataset containing information about sales, profit, categories,
 - Improve performance in low-performing regions
 - Reduce losses in weak sub-categories
 - Optimize pricing and cost strategies
+
+## Key Questions Answered
+
+- Which product categories generate the most revenue?
+- Which regions perform best and worst?
+- Are high sales translating into high profit?
+- Which sub-categories are causing losses?
